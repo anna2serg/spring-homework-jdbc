@@ -1,0 +1,6 @@
+# Enabling H2 Console
+spring.h2.console.enabled: true
+spring.h2.console.path: /h2console/
+
+application: 
+ fetchsize: 5
