@@ -9,7 +9,8 @@
 	<packaging>jar</packaging>
 
 	<name>App</name>
-	<description>Demo project for Spring Boot</description>
+	<description>spring-homework-jdbc</description>
+	<url>https://github.com/anna2serg/spring-homework-jdbc</url>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
